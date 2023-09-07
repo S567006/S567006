@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with study in webapps
 - 💬 Ask me about webapps
 - 📫 How to reach me contact
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE/HIM
 
